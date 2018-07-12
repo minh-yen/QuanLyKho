@@ -17,7 +17,7 @@ public class Kho {
    private int dai, rong ;
    private float s ;
   // public abstract float dienTich() ;
-
+  
     public Kho() {
     }
 

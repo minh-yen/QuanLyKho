@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author admin
  */
-public class KhuVuc extends Kho{
+public class KhuVuc {
     private String maKV , tenKV ;
 
     public KhuVuc() {
